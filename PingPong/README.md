@@ -1,6 +1,8 @@
 Ping-Pong
 =========
 
+> This project can run and works!
+
 This project is a basic ping pong game made with the base Tkinter module.
 
 To run the project download the zip. Extract it and navigate to *PingPong/georgep/pokuit/ping_pong/*
