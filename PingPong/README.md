@@ -1,7 +1,7 @@
 Ping-Pong
 =========
 
-> This project can run and works!
+> This project can run and works! :white_check_mark:
 
 This project is a basic ping pong game made with the base Tkinter module.
 
